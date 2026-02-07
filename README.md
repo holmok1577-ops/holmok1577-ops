@@ -1,9 +1,9 @@
-## Hi there 👋
+##
 
 <!--
 **holmok1577-ops/holmok1577-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Name: StanislavProfession: Prompt Engineer  
+## Name: StanislavProfession: Prompt Engineer  
 
 About Me:I'm a prompt engineer specializing in creating effective solutions using artificial intelligence technologies. I manage projects from conception to final delivery, developing AI assistants from scratch to finished products. I ensure the reliability and efficiency of my work.
 
