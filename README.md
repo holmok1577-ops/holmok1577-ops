@@ -3,32 +3,29 @@
 <!--
 **holmok1577-ops/holmok1577-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Stanislav, and I am a prompt engineer who creates effective solutions based on artificial intelligence technologies. I lead projects from idea to completion, developing AI assistants from scratch to finished product. I guarantee the reliability and efficiency of my solutions.
+Name: StanislavProfession: Prompt Engineer  
 
-✅ Quality Guarantee: I offer free annual support for all projects—fixing any issues during the first year of operation.
+About Me:I'm a prompt engineer specializing in creating effective solutions using artificial intelligence technologies. I manage projects from conception to final delivery, developing AI assistants from scratch to finished products. I ensure the reliability and efficiency of my work.
 
-🔥 Areas of My Work:
+Quality Guarantee: ✅Free annual support for all projects—issues fixed within the first year of use.
 
-Telegram Bots: Automate user requests processing, increase service speed, and reduce employee workload.
+Areas of Expertise: 🔥  
 
-Autonomous Agents: Create intelligent assistants that perform routine tasks independently, saving you time for important matters.
+Telegram Bots: Automating request handling, increasing service speed, reducing employee workload.  
+Autonomous Agents: Creating smart assistants performing routine tasks autonomously, giving you more time for essential activities.  
+AI Assistants: Developing virtual helpers such as personal consultants or customer support services, effectively addressing clients' needs while saving recruitment expenses.
+I'll assist you with implementing cutting-edge technology to enhance your business's productivity!
 
-AI Assistants: Develop virtual helpers, whether it's a personal consultant or customer support service, capable of efficiently responding to client inquiries and saving costs on hiring staff.
+Имя: СтаниславПрофиль: Промпт-инженер  
 
-I will help you implement modern technologies and boost your business productivity!
+Обо мне:Промпт-инженер, создаю эффективные решения на основе технологий искусственного интеллекта. Управляю проектами от идеи до завершения, разрабатывая ИИ-помощников с нуля до конечного продукта. Гарантирую надёжность и эффективность моих решений.
 
+Гарантия качества: ✅Бесплатная поддержка всех проектов в течение года — устранение неполадок в первый год эксплуатации.
 
-Меня зовут Станислав, и я  промпт-инженер, создаю эффективные решения на основе технологий искусственного интеллекта. Веду проекты от идеи до финала, разрабатываю ИИ-помощников с нуля до готового продукта. Гарантирую надежность и эффективность решений.
+Направления работы: 🔥  
 
-✅ Гарантия качества:Предлагаю годовую поддержку всех проектов бесплатно — устраняю поломки в течение первого года эксплуатации.
-
-🔥 Направления моей работы:
-
-Телеграм-боты: Автоматизирую обработку заявок и обращений пользователей, повышаю скорость обслуживания и снижаю нагрузку на сотрудников.
-
-Автономные агенты: Создаю умных ассистентов, которые самостоятельно выполняют рутинные задачи, освобождая ваше время для важных дел.
-
-ИИ-ассистенты: Разрабатываю виртуальных помощников, будь то персональный консультант или служба поддержки, способные эффективно отвечать на запросы ваших клиентов и экономить средства на найме персонала.
-
-Помогу вам внедрить современные технологии и повысить производительность вашего бизнеса!
+Телеграм-боты: автоматизация обработки запросов пользователей, повышение скорости обслуживания и снижение нагрузки на персонал.  
+Автономные агенты: создание интеллектуальных ассистентов, выполняющих рутинные задачи самостоятельно, высвобождая ваше время для ключевых задач.  
+ИИ-ассистенты: разработка виртуальных помощников, будь то персональные консультанты или службы поддержки, эффективно реагирующих на потребности ваших клиентов и экономящих расходы на наем персонала.
+Помогу вашему бизнесу внедрить передовые технологии и увеличить продуктивность!
 -->
