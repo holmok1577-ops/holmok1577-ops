@@ -1,4 +1,4 @@
-## Name: Stanislav Profession: Prompt Engineer  
+## Name: Stanislav Profession: Prompt Engineer and Vibe-coder
 
 About Me:I'm a prompt engineer specializing in creating effective solutions using artificial intelligence technologies. I manage projects from conception to final delivery, developing AI assistants from scratch to finished products. I ensure the reliability and efficiency of my work.
 
@@ -11,7 +11,7 @@ Autonomous Agents: Creating smart assistants performing routine tasks autonomous
 AI Assistants: Developing virtual helpers such as personal consultants or customer support services, effectively addressing clients' needs while saving recruitment expenses.
 I'll assist you with implementing cutting-edge technology to enhance your business's productivity!
 
-Имя: Станислав Профиль: Промпт-инженер  
+## Имя: Станислав Профиль: Промпт-инженер и Vibe-кодер
 
 Обо мне:Промпт-инженер, создаю эффективные решения на основе технологий искусственного интеллекта. Управляю проектами от идеи до завершения, разрабатывая ИИ-помощников с нуля до конечного продукта. Гарантирую надёжность и эффективность моих решений.
 
